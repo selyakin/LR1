@@ -1,0 +1,8 @@
+{
+  "M": {"F": ["client1"]},
+  "F": {"L": ["client1"]},
+  "L": {"S": ["client1"]},
+  "S": {"Q": ["client1"]},
+  "Q": {"myqueue": ["client2", "client3"]},
+  "T": {"mytree": ["10", "20", "30", "40"]}
+}

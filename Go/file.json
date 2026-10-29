@@ -1,0 +1,24 @@
+{
+  "M": {
+    "myarr": [
+      "world",
+      "10",
+      "20"
+    ]
+  },
+  "F": {},
+  "L": {
+    "mydll": null
+  },
+  "S": {
+    "mystack": [
+      "A",
+      "A"
+    ]
+  },
+  "Q": {
+    "myqueue": [
+      "second"
+    ]
+  }
+}
